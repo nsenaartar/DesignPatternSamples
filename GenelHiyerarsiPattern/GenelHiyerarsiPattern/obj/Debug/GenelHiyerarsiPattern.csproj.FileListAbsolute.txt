@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\bin\Debug\GenelHiyerarsiPattern.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\bin\Debug\GenelHiyerarsiPattern.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\bin\Debug\GenelHiyerarsiPattern.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\obj\Debug\GenelHiyerarsiPattern.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\obj\Debug\GenelHiyerarsiPattern.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GenelHiyerarsiPattern\GenelHiyerarsiPattern\obj\Debug\GenelHiyerarsiPattern.pdb

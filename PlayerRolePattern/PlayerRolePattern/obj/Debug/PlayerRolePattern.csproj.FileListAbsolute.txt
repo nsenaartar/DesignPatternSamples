@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\bin\Debug\PlayerRolePattern.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\bin\Debug\PlayerRolePattern.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\bin\Debug\PlayerRolePattern.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\obj\Debug\PlayerRolePattern.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\obj\Debug\PlayerRolePattern.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\PlayerRolePattern\PlayerRolePattern\obj\Debug\PlayerRolePattern.pdb
